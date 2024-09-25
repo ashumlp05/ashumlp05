@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on **MERN Stack Projects**.
 - 🌱 I’m exploring **Cloud Native Applications** using Docker, Kubernetes, and Jenkins.
 - 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **Docker**, **Kubernetes**, **Jenkins**, and **Ansible**.
-- 📫 How to reach me: [Email Me](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email Me](mailto:ashumlp05@gmail.com) or [LinkedIn](https://linkedin.com/in/ashumlp05)
 - ⚡ Fun fact: I love automating processes and learning new technologies!
 
 <h3 align="left">Connect with me:</h3>
